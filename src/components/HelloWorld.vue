@@ -2,7 +2,7 @@
 import { ref } from 'vue'
 
 
-let name = ref(123)
+let name = ref(123) 
 defineProps ({
   msg: String,
 })
