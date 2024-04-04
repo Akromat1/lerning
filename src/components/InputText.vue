@@ -1,7 +1,7 @@
 <script setup>
 defineProps ({
     placeholder: String,
-    type:String
+    type:String 
 })
 </script>
 <template>
